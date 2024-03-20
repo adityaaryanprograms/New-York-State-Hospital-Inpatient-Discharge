@@ -1,4 +1,4 @@
-# New York State Hospital Inpatient Discharge (Capstone Project in Healthcare Domain)
+# New York State Hospital Inpatient Discharge (Capstone Project)
 
 ## Problem Statement
 The healthcare sector in New York is struggling to provide equal access to healthcare for all communities across the state. Additionally, it is facing challenges in making informed decisions about treatment plans, efficient allocation of resources and discharge planning. For this, we can use data science techniques to identify which areas need more healthcare coverage for specific diagnoses or procedures along with the prediction of length of stay and risk of mortality of patients.
